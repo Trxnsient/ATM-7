@@ -1,6 +1,6 @@
 All The Mods 7
 ======
-This is the official repository and issue-tracker for All The Mods 7 1.18
+This is trxnsients fork of the modpack so that they can submit pullrequests for bugfixes and such.
 
 Does "All The Mods" *really* contain ALL THE MODS? No, of course not.
 
